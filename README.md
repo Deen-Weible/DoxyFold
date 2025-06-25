@@ -14,8 +14,8 @@ This plugin was inspired by an idea while working on [Phytolabs](https://github.
   - Python
 - Easy to extend
 
-## Why only open-vsx?
-The reason this addon is only (officially) published on github and open-vsx is because Devops is being weird. It is required to publish a vscode addon and I'm having issues with sort of "organization" restriction. If I figure it out I'll cross-publish
+## Why only github?
+The reason this addon is only (officially) published on github. I'm having issues with Azure Devops (whoda thunk it) and my Eclipse account for open-vsx. If I figure it out I'll cross-publish
 
 ## License
 This plugin is released under the [GPLv3](https://www.gnu.org/licenses/gpl-3.0) license.
