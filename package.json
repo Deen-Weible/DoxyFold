@@ -2,6 +2,7 @@
   "name": "doxyFold",
   "displayName": "DoxyFold",
   "description": "Automatically fold doxygen comments",
+  "publisher": "DeenWeible",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.101.0"
